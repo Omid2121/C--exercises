@@ -1,0 +1,13 @@
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\bin\Debug\netcoreapp3.1\Coding_Exercises.exe
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\bin\Debug\netcoreapp3.1\Coding_Exercises.deps.json
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\bin\Debug\netcoreapp3.1\Coding_Exercises.runtimeconfig.json
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\bin\Debug\netcoreapp3.1\Coding_Exercises.runtimeconfig.dev.json
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\bin\Debug\netcoreapp3.1\Coding_Exercises.dll
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\bin\Debug\netcoreapp3.1\Coding_Exercises.pdb
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\obj\Debug\netcoreapp3.1\Coding_Exercises.csprojAssemblyReference.cache
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\obj\Debug\netcoreapp3.1\Coding_Exercises.AssemblyInfoInputs.cache
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\obj\Debug\netcoreapp3.1\Coding_Exercises.AssemblyInfo.cs
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\obj\Debug\netcoreapp3.1\Coding_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\obj\Debug\netcoreapp3.1\Coding_Exercises.dll
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\obj\Debug\netcoreapp3.1\Coding_Exercises.pdb
+C:\Users\omidh\source\repos\Coding_ExercisesProject\Coding_Exercises\obj\Debug\netcoreapp3.1\Coding_Exercises.genruntimeconfig.cache
